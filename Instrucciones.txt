@@ -1,0 +1,26 @@
+Realizar una clase que lleve por nombre "Animal", la cual tiene los atributos de :
+
+*nombre
+*tipo de alimentación
+*edad 
+
+Despues, crear sus clases hijas con los nombres y atributos siguentes: 
+
+* Clase: Mamífero
+ -Atributo: gestación (periodo de gestación en meses)
+ 
+Y 3 clases hijas de la clase Mamífero:
+
+* Clase: Perro
+ -Atributo: raza
+ 
+ *Clase: Gato
+ -Atributo: Color
+ 
+ * Y la ultima clase es libre, crea la clase de un mamífero y que contenga al menos un atributo. 
+ 
+ Cada una de las clases hijas tiene diferentes atributos, pero comparten las mismas propiedades de un Animal mediante la herencia.
+ 
+ Una vez realizadas nuestras clases, crearemos un programa para crear los objetos de cada uno de nuestras clases hijas y asignarles las propiedades necesarias.
+
+
